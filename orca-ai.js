@@ -21,4 +21,3 @@ var aws = require('aws-sdk');
 
 log.info('hello');
 log.error('Error');
-log.object(person);
