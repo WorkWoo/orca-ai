@@ -1,6 +1,6 @@
 var log = {
 	info: function(string) {
-		console.log('INFO: ' + string);
+		console.log('INFO: ' + string);//
 	},
 
 	error: function(string) {
