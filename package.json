@@ -1,0 +1,15 @@
+{
+  "name": "Orca AI",
+  "version": "1.0.0",
+  "description": "",
+  "main": "orca-ai.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "mongoose": "4.3.6",
+    "aws-sdk": "2.5.2"
+  },
+  "author": "Jesse Williams",
+  "license": "ISC"
+}
